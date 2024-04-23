@@ -267,3 +267,4 @@ D:\Projetos  DEV\C-SHARP\MVC-COM-BANCO\LHPet\obj\Debug\net8.0\refint\LHPet.dll
 D:\Projetos  DEV\C-SHARP\MVC-COM-BANCO\LHPet\obj\Debug\net8.0\LHPet.pdb
 D:\Projetos  DEV\C-SHARP\MVC-COM-BANCO\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
 D:\Projetos  DEV\C-SHARP\MVC-COM-BANCO\LHPet\obj\Debug\net8.0\ref\LHPet.dll
+D:\Projetos  DEV\C-SHARP\MVC-COM-BANCO\LHPet\obj\Debug\net8.0\LHPet.sourcelink.json
